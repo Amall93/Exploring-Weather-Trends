@@ -7,6 +7,7 @@ The goal is to create a visualization and prepare a write up describing the simi
 
 ## The Database Schema
   There are three tables in the database:
+  
    •	city_list   - This contains a list of cities and countries in the database.
     
    •	city_data   - This contains the average temperatures for each city by year (ºC).
